@@ -7,7 +7,7 @@ It's a GitHub repository of paper "Towards Unified Ultrasound Intelligence: A Mu
 ```python
 from transformers import Qwen3VLForConditionalGeneration, AutoProcessor
 import torch
-model_path = ""  # replace with the actual model path
+model_path = "Ssdaizi/Qwen3-VL-2B-Sono"  # replace with the actual model path
 
 # Load the model
 model = Qwen3VLForConditionalGeneration.from_pretrained(
