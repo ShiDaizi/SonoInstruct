@@ -12,7 +12,7 @@ It's a GitHub repository of paper "A Multimodal Instruction Dataset and Benchmar
 
 ## 📊 Dataset
 
-📌 Hugging Face Dataset: [https://huggingface.co/datasets/your-org/SonoInstruct ](https://huggingface.co/datasets/Ssdaizi/SonoInstruct) 
+📌 Hugging Face Dataset: [https://huggingface.co/datasets/Ssdaizi/SonoInstruct](https://huggingface.co/datasets/Ssdaizi/SonoInstruct) 
 
 
 
