@@ -2,7 +2,26 @@
 
 It's a GitHub repository of paper "A Multimodal Instruction Dataset and Benchmark for Ultrasound Understanding".
 
-### 🚀 Quick Start
+## 📄 Paper
+
+**A Multimodal Instruction Dataset and Benchmark for Ultrasound Understanding**
+
+📌 Paper: upcoming  
+
+
+
+## 📊 Dataset
+
+📌 Hugging Face Dataset: [https://huggingface.co/datasets/your-org/SonoInstruct ](https://huggingface.co/datasets/Ssdaizi/SonoInstruct) 
+
+
+
+## 🤖 Model
+
+📌 Hugging Face Model: https://huggingface.co/Ssdaizi/Qwen3-VL-2B-Sono
+
+
+## 🚀 Quick Start
 
 ```python
 from transformers import Qwen3VLForConditionalGeneration, AutoProcessor
