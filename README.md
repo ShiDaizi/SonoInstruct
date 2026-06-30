@@ -1,13 +1,13 @@
 # SonoInstruct
 
-It's a GitHub repository of paper "Towards Unified Ultrasound Intelligence: A Multimodal In-struction Dataset and Benchmark for Ultrasound Under-standing".
+It's a GitHub repository of paper "A Multimodal Instruction Dataset and Benchmark for Ultrasound Understanding".
 
 ### 🚀 Quick Start
 
 ```python
 from transformers import Qwen3VLForConditionalGeneration, AutoProcessor
 import torch
-model_path = "Ssdaizi/Qwen3-VL-2B-Sono"  # replace with the actual model path
+model_path = "Ssdaizi/Qwen3-VL-2B-Sono" 
 
 # Load the model
 model = Qwen3VLForConditionalGeneration.from_pretrained(
